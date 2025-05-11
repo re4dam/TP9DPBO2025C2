@@ -47,4 +47,5 @@ Merupakan entry point aplikasi. Mendeteksi action (`create`, `update`, `delete`)
 - Field untuk setiap kolom mahasiswa tersedia.
 - Tombol `Tambah` atau `Update` akan mengirim perintah ke View untuk diteruskan ke Presenter dan Model.
 ## Dokumentasi
-![video](menyusul.png)
+https://github.com/user-attachments/assets/bfe2e243-4035-4755-b5bf-22331e772aab
+

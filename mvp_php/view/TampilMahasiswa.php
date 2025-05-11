@@ -148,7 +148,7 @@ class TampilMahasiswa implements KontrakView
 
             // Set gender radio button
             $gender = isset($_GET['gender']) ? $_GET['gender'] : $this->prosesmahasiswa->getGender(0);
-            if ($gender == "L") {
+            if ($gender == "Laki-laki") {
                 $this->tpl->replace("DATA_GENDER_L", "checked");
                 $this->tpl->replace("DATA_GENDER_P", "");
             } else {
